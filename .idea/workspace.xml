@@ -6,96 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62a565ff-54a4-4d4b-a26c-9e7180bff46b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_rapid_framework_rapid_core_4_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_1_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__freemarker_freemarker_2_3_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_api_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_common_schemas_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_common_utilities_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_soap_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_xml_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_core_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_jaxb_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxws_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_simple_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_addr_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_security_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_tools_common_2_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_javamail_1_4_spec_1_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_neethi_neethi_2_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_santuario_xmlsec_1_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ws_commons_schema_XmlSchema_1_4_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ws_security_wss4j_1_5_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15_1_45.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_3_2_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_resolver_xml_resolver_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/annotation/AnnotationTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/annotation/Column.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/annotation/Table.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/controller/ProductController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/exception/MyExceptionHandlerResolver.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/interceptors/AuthorityInterceptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/service/IProductService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/service/impl/ProductServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categoryadd.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/productadd.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/productlist.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/productupdate.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userInfolist.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userinfoadd.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/userinfoupdate.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/css/loginstyle.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/5df775f8-9d0b-4411-9766-6bd01fc140e3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/pay.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/category/list.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/category/update.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/common/error.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/common/header.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/common/nav.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/common/success.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home/home.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/order/detail.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/order/list.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pay/create.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/pay/success.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product/list.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product/update.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/list.ftl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/update.ftl" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/bussiness_manage_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/bussiness_manage_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/bussiness_manage.iml" afterPath="$PROJECT_DIR$/bussiness_manage.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neuedu/controller/CategoryController.java" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/controller/CategoryController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neuedu/controller/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/controller/UserController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neuedu/dao/ProductMapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/dao/ProductMapper.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neuedu/dao/UserInfoMapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/dao/UserInfoMapper.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neuedu/pojo/UserInfo.java" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/pojo/UserInfo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neuedu/service/IUserService.java" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/service/IUserService.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neuedu/service/impl/CategoryServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/service/impl/CategoryServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neuedu/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/service/impl/UserServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/CategoryMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/CategoryMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/ProductMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/ProductMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/UserInfoMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/UserInfoMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/springmvc.xml" afterPath="$PROJECT_DIR$/src/main/resources/springmvc.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categorylist.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/categorylist.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-    </list>
+    <list default="true" id="62a565ff-54a4-4d4b-a26c-9e7180bff46b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1133,12 +1044,12 @@
       <workItem from="1565164555819" duration="13301000" />
       <workItem from="1565225811718" duration="24197000" />
       <workItem from="1565312006433" duration="12000" />
-      <workItem from="1565312404682" duration="10566000" />
+      <workItem from="1565312404682" duration="11008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83846000" />
+    <option name="totallyTimeSpent" value="84288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
