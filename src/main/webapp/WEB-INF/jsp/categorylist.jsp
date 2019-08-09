@@ -19,6 +19,7 @@
         <th>类别状态</th>
         <th>创建时间</th>
         <th>修改时间</th>
+        <a href="add">新增类别</a>
         </thead>
         <c:forEach items="${categorylist}" var="category">
         <tr>
@@ -30,7 +31,7 @@
             <th>${category.updateTime}</th>
             <th>
                 <a href="update/${category.id}">修改</a>
-                <a href="">删除</a>
+                <a href="delect/${category.id}">删除</a>
             </th>
         </tr>
         </c:forEach>

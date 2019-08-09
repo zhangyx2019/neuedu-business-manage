@@ -16,12 +16,12 @@ public class CategoryServiceImpl implements ICategoryService {
 
     @Override
     public int addCategory(Category category) throws MyException {
-        return 0;
+        return categoryMapper.insert(category);
     }
 
     @Override
     public int deleteCategory(Category category) throws MyException {
-        return 0;
+        return categoryMapper.deleteByPrimaryKey(category.getId());
     }
 
     @Override

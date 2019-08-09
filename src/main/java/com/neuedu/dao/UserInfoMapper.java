@@ -44,7 +44,7 @@ public interface UserInfoMapper {
      *
      * @mbggenerated
      */
-    int updateByPrimaryKey(UserInfo record);
+    int updateByPrimaryKey(@Param("userinfo") UserInfo record);
 
     //判断用户名是否存在  1：存在  0：不存在
     int exsitsUsername(@Param("username") String username);
